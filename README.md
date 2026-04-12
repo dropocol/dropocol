@@ -13,6 +13,8 @@ I'm a product designer and full-stack developer who bridges the gap between beau
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -42,6 +44,12 @@ I'm a product designer and full-stack developer who bridges the gap between beau
 - **Backend Development** — Designing RESTful APIs and server-side applications with Node.js & Express
 - **Database Design** — Modeling complex data relationships with PostgreSQL and MongoDB
 - **DevOps & Deployment** — Containerizing applications with Docker, managing AWS infrastructure, and configuring Nginx for production
+
+### 🤖 AI & Innovation
+- **AI-Powered Development** — Leveraging LLMs and AI tools to accelerate development workflows
+- **Prompt Engineering** — Crafting effective prompts to get the best out of AI assistants
+- **Continuous Exploration** — Always experimenting with emerging AI technologies and tools
+- **Smart Integration** — Building AI-powered features into applications
 
 ### 🚀 Product & Strategy
 - **Full-Product Development** — Taking ideas from concept to deployed reality

@@ -1,4 +1,4 @@
-[![gitlo](https://raw.githubusercontent.com/dropocol/dropocol/main/banner.png)](https://github.com/dropocol/gitldropocol)
+[![Zeeshan Khan](https://raw.githubusercontent.com/dropocol/dropocol/main/banner.png)](https://github.com/dropocol/dropocol)
 
 # Hello, I'm Zeeshan Khan 👋
 

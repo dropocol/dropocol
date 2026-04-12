@@ -4,13 +4,10 @@
 
 **Product Designer (UI/UX) & Full-Stack Engineer**
 
----
-
 ## About Me
 
 I'm a product designer and full-stack developer who bridges the gap between beautiful design and robust engineering. I love crafting intuitive user experiences and building scalable applications from concept to deployment.
 
----
 
 ## Tech Stack
 
@@ -34,10 +31,22 @@ I'm a product designer and full-stack developer who bridges the gap between beau
 
 ## What I Do
 
-- 🎨 **UI/UX Design** — Creating intuitive, user-centered interfaces
-- 💻 **Full-Stack Development** — Building end-to-end web applications
-- 🚀 **Product Strategy** — From idea to launch, I help bring products to life
-- 🔧 **Design Systems** — Crafting consistent, scalable component libraries
+### 🎨 Design
+- **UI/UX Design** — Creating intuitive, user-centered interfaces with accessibility in mind
+- **Design Systems** — Building scalable component libraries and maintaining design consistency
+- **Visual Design** — Crafting pixel-perfect interfaces from concept to high-fidelity mockups
+- **User Research** — Understanding user needs through research and data-driven design decisions
+
+### 💻 Development
+- **Frontend Architecture** — Building responsive, performant web apps with React & Next.js
+- **Backend Development** — Designing RESTful APIs and server-side applications with Node.js & Express
+- **Database Design** — Modeling complex data relationships with PostgreSQL and MongoDB
+- **DevOps & Deployment** — Containerizing applications with Docker, managing AWS infrastructure, and configuring Nginx for production
+
+### 🚀 Product & Strategy
+- **Full-Product Development** — Taking ideas from concept to deployed reality
+- **Technical Leadership** — Bridging the gap between design and engineering teams
+- **Performance Optimization** — Ensuring fast, scalable, and reliable applications
 
 ---
 

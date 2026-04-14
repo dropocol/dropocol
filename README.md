@@ -46,9 +46,9 @@ I'm a product designer and full-stack engineer who bridges the gap between beaut
 ## Projects
 
 - 🚀 **[gitlo][gitlo]** – A CLI tool to backup all your GitHub repositories locally. Secure, automated, and fast.
-- ✍🏻 **[zotes][zotes]** – A personal CRM and productivity tool designed to help you stay organized with notes, tasks, projects, job applications, and daily prayer tracking. 
-- 📮 **[coldjot][ColdJot]** – ColdJot is a powerful email automation platform designed to help businesses manage and streamline their email operations.
-- 👨‍🦯‍➡️ **[guidekit][Guidekit]** – GuideKit is a knowledgebase platform built with Notion. It allows you to create, manage and share knowledgebases with your customers.
+- ✍🏻 **[zotes][zotes]** – A personal CRM and productivity tool designed to help you stay organized. 
+- 📮 **[coldjot][ColdJot]** – Email automation platform designed to help businesses manage email operations.
+- 👨‍🦯‍➡️ **[guidekit][Guidekit]** – GuideKit is a knowledgebase platform built with Notion.
 
 ---
 
@@ -62,6 +62,9 @@ I'm a product designer and full-stack engineer who bridges the gap between beaut
 
 [x]: https://github.com/dropocol
 [gitlo]: https://github.com/dropocol/gitlo
+[zotes]: https://github.com/dropocol/zotes
+[ColdJot]: https://github.com/dropocol/coldjot
+[Guidekit]: https://github.com/dropocol/guidekit
 
 [badge-figma]: https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white
 [badge-ps]: https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white

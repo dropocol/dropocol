@@ -45,7 +45,7 @@ I'm a product designer and full-stack engineer who bridges the gap between beaut
 
 ## Projects
 
-- 🚀 **[gitlo][gitlo]** – coming soon 
+- 🚀 **[gitlo][gitlo]** – A CLI tool to backup all your GitHub repositories locally. Secure, automated, and fast.
 ---
 
 ## Let's Connect
@@ -59,22 +59,22 @@ I'm a product designer and full-stack engineer who bridges the gap between beaut
 [x]: https://github.com/dropocol
 [gitlo]: https://github.com/dropocol/gitlo
 
-[badge-figma]: https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white
-[badge-ps]: https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white
-[badge-openai]: https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white
-[badge-docker]: https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white
-[badge-nginx]: https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white
-[badge-aws]: https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white
-[badge-react]: https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black
-[badge-next]: https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white
-[badge-html]: https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white
-[badge-css]: https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white
-[badge-tailwind]: https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white
-[badge-node]: https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white
-[badge-express]: https://img.shields.io/badge/Express-000000?logo=express&logoColor=white
-[badge-ts]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white
-[badge-js]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black
-[badge-postgres]: https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white
-[badge-prisma]: https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white
-[badge-mongo]: https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white
-[badge-cli]: https://img.shields.io/badge/CLI-000000?logo=terminal&logoColor=white
+[badge-figma]: https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white
+[badge-ps]: https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white
+[badge-openai]: https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white
+[badge-docker]: https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
+[badge-nginx]: https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white
+[badge-aws]: https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white
+[badge-react]: https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black
+[badge-next]: https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white
+[badge-html]: https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
+[badge-css]: https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
+[badge-tailwind]: https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white
+[badge-node]: https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white
+[badge-express]: https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white
+[badge-ts]: https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
+[badge-js]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+[badge-postgres]: https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white
+[badge-prisma]: https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white
+[badge-mongo]: https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white
+[badge-cli]: https://img.shields.io/badge/CLI-000000?style=flat-square&logo=terminal&logoColor=white

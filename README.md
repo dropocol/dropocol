@@ -34,18 +34,22 @@ I'm a product designer and full-stack engineer who bridges the gap between beaut
 
 ## What I Do
 
-### 🎨 Design — Crafting intuitive user-centered interfaces, scalable design systems, and pixel-perfect visual experiences.
+- **🎨 Product Design** — Crafting intuitive user-centered interfaces, scalable design systems, and pixel-perfect visual experiences.
 
-### 💻 Development — Building full-stack applications with React, Next.js, Node.js, and robust databases—from architecture to deployment.
+- **🚀 Product & Strategy** — Taking ideas from concept to deployed reality while bridging design and engineering teams.
 
-### 🤖 AI & Innovation — Leveraging LLMs and AI tools to accelerate workflows and build intelligent, AI-powered features.
+- **💻  Development** — Building full-stack applications with React, Next.js, Node.js, and robust databases—from architecture to deployment.
 
-### 🚀 Product & Strategy — Taking ideas from concept to deployed reality while bridging design and engineering teams.
+- **🤖 AI & Innovation** — Leveraging LLMs and AI tools to accelerate workflows and build intelligent, AI-powered features.
 
 
 ## Projects
 
 - 🚀 **[gitlo][gitlo]** – A CLI tool to backup all your GitHub repositories locally. Secure, automated, and fast.
+- ✍🏻 **[zotes][zotes]** – A personal CRM and productivity tool designed to help you stay organized with notes, tasks, projects, job applications, and daily prayer tracking. 
+- 📮 **[coldjot][ColdJot]** – ColdJot is a powerful email automation platform designed to help businesses manage and streamline their email operations.
+- 👨‍🦯‍➡️ **[guidekit][Guidekit]** – GuideKit is a knowledgebase platform built with Notion. It allows you to create, manage and share knowledgebases with your customers.
+
 ---
 
 ## Let's Connect

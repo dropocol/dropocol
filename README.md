@@ -10,55 +10,46 @@ I'm a product designer and full-stack engineer who bridges the gap between beaut
 
 ## Tech Stack
 
-Figma
-Photoshop
-OpenAI
-TensorFlow
-Docker
-Nginx
-AWS
-React
-Next.js
-HTML5
-CSS3
-TailwindCSS
-Node.js
-Express.js
-PostgreSQL
-Prisma
-MongoDB
+[![Figma][badge-figma]][x]
+[![Photoshop][badge-ps]][x]
+[![OpenAI][badge-openai]][x]
+[![Docker][badge-docker]][x]
+[![Nginx][badge-nginx]][x]
+[![AWS][badge-aws]][x]
+[![React][badge-react]][x]
+[![Next.js][badge-next]][x]
+[![HTML5][badge-html]][x]
+[![CSS3][badge-css]][x]
+[![TailwindCSS][badge-tailwind]][x]
+[![Node.js][badge-node]][x]
+[![Express][badge-express]][x]
+[![TypeScript][badge-ts]][x]
+[![JavaScript][badge-js]][x]
+[![PostgreSQL][badge-postgres]][x]
+[![Prisma][badge-prisma]][x]
+[![MongoDB][badge-mongo]][x]
+[![CLI][badge-cli]][x]
 
 ---
 
 ## What I Do
 
 ### 🎨 Design
-
-- **UI/UX Design** — Creating intuitive, user-centered interfaces with accessibility in mind
-- **Design Systems** — Building scalable component libraries and maintaining design consistency
-- **Visual Design** — Crafting pixel-perfect interfaces from concept to high-fidelity mockups
-- **User Research** — Understanding user needs through research and data-driven design decisions
+Crafting intuitive user-centered interfaces, scalable design systems, and pixel-perfect visual experiences.
 
 ### 💻 Development
-
-- **Frontend Architecture** — Building responsive, performant web apps with React & Next.js
-- **Backend Development** — Designing RESTful APIs and server-side applications with Node.js & Express
-- **Database Design** — Modeling complex data relationships with PostgreSQL and MongoDB
-- **DevOps & Deployment** — Containerizing applications with Docker, managing AWS infrastructure, and configuring Nginx for production
+Building full-stack applications with React, Next.js, Node.js, and robust databases—from architecture to deployment.
 
 ### 🤖 AI & Innovation
-
-- **AI-Powered Development** — Leveraging LLMs and AI tools to accelerate development workflows
-- **Prompt Engineering** — Crafting effective prompts to get the best out of AI assistants
-- **Continuous Exploration** — Always experimenting with emerging AI technologies and tools
-- **Smart Integration** — Building AI-powered features into applications
+Leveraging LLMs and AI tools to accelerate workflows and build intelligent, AI-powered features.
 
 ### 🚀 Product & Strategy
+Taking ideas from concept to deployed reality while bridging design and engineering teams.
 
-- **Full-Product Development** — Taking ideas from concept to deployed reality
-- **Technical Leadership** — Bridging the gap between design and engineering teams
-- **Performance Optimization** — Ensuring fast, scalable, and reliable applications
 
+## Projects
+
+- 🚀 **[gitlo][gitlo]** – coming soon 
 ---
 
 ## Let's Connect
@@ -68,3 +59,26 @@ MongoDB
 ---
 
 *Design with purpose. Code with passion.*
+
+[x]: https://github.com/dropocol
+[gitlo]: https://github.com/dropocol/gitlo
+
+[badge-figma]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+[badge-ps]: https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white
+[badge-openai]: https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white
+[badge-docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[badge-nginx]: https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white
+[badge-aws]: https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
+[badge-react]: https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+[badge-next]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[badge-html]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[badge-css]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[badge-tailwind]: https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
+[badge-node]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[badge-express]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
+[badge-ts]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+[badge-js]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[badge-postgres]: https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+[badge-prisma]: https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
+[badge-mongo]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+[badge-cli]: https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=terminal&logoColor=white

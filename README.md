@@ -34,12 +34,9 @@ I'm a product designer and full-stack engineer who bridges the gap between beaut
 
 ## What I Do
 
-- **🎨 Product Design** — Crafting intuitive user-centered interfaces, scalable design systems, and pixel-perfect visual experiences.
-
+- **🎨 Product Design** — Crafting intuitive interfaces, scalable systems, and pixel-perfect designs
 - **🚀 Product & Strategy** — Taking ideas from concept to deployed reality while bridging design and engineering teams.
-
-- **💻  Development** — Building full-stack applications with React, Next.js, Node.js, and robust databases—from architecture to deployment.
-
+- **💻  Development** — Building full-stack applications architecture from architecture to deployment.
 - **🤖 AI & Innovation** — Leveraging LLMs and AI tools to accelerate workflows and build intelligent, AI-powered features.
 
 

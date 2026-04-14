@@ -3,13 +3,6 @@
 # Hello, I'm Zeeshan Khan 👋
 
 **Product Designer (UI/UX) & Full-Stack Engineer**
-
-## About Me
-
-I'm a product designer and full-stack engineer who bridges the gap between beautiful design and robust engineering. I love crafting intuitive user experiences and building scalable applications from concept to deployment.
-
-## Tech Stack
-
 [![Figma][badge-figma]][x]
 [![Photoshop][badge-ps]][x]
 [![OpenAI][badge-openai]][x]
@@ -32,13 +25,16 @@ I'm a product designer and full-stack engineer who bridges the gap between beaut
 
 ---
 
-## What I Do
+## About Me
+
+I'm a product designer and full-stack engineer who bridges the gap between beautiful design and robust engineering. I love crafting intuitive user experiences and building scalable applications from concept to deployment.
 
 - **🎨 Product Design** — Crafting intuitive interfaces, scalable systems, and pixel-perfect designs
 - **🚀 Product & Strategy** — Taking ideas from concept to deployed reality while bridging design and engineering teams.
 - **💻  Development** — Building full-stack applications architecture from architecture to deployment.
 - **🤖 AI & Innovation** — Leveraging LLMs and AI tools to accelerate workflows and build intelligent, AI-powered features.
 
+---
 
 ## Projects
 

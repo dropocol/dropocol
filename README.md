@@ -39,7 +39,7 @@ I'm a product designer and full-stack engineer who bridges the gap between beaut
 
 ## Projects
 
-- 🚀 **[prismax][PrismaX]** – MacOS app to run Prisma across projects and environments without swapping .env files ever.
+- 💻 **[prismax][PrismaX]** – MacOS app to run Prisma across projects and environments without swapping .env files ever.
 - 🚀 **[gitlo][gitlo]** – A CLI tool to backup all your GitHub repositories locally. Secure, automated, and fast.
 - ✍🏻 **[zotes][zotes]** – A personal CRM and productivity tool designed to help you stay organized. 
 - 📮 **[coldjot][ColdJot]** – Email automation platform designed to help businesses manage email operations.

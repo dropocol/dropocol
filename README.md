@@ -32,13 +32,14 @@ I'm a product designer and full-stack engineer who bridges the gap between beaut
 
 - **🎨 Product Design** — Crafting intuitive interfaces, scalable systems, and pixel-perfect designs
 - **🚀 Product & Strategy** — Taking ideas from concept to deployed reality while bridging design and engineering teams.
-- **💻  Development** — Building full-stack applications architecture from architecture to deployment.
+- **💻 Development** — Building full-stack applications architecture from architecture to deployment.
 - **🤖 AI & Innovation** — Leveraging LLMs and AI tools to accelerate workflows and build intelligent, AI-powered features.
 
 ---
 
 ## Projects
 
+- 🚀 **[prismax][PrismaX]** – MacOS app to run Prisma across projects and environments without swapping .env files ever.
 - 🚀 **[gitlo][gitlo]** – A CLI tool to backup all your GitHub repositories locally. Secure, automated, and fast.
 - ✍🏻 **[zotes][zotes]** – A personal CRM and productivity tool designed to help you stay organized. 
 - 📮 **[coldjot][ColdJot]** – Email automation platform designed to help businesses manage email operations.
@@ -55,6 +56,7 @@ I'm a product designer and full-stack engineer who bridges the gap between beaut
 *Design with purpose. Code with passion.*
 
 [x]: https://github.com/dropocol
+[prismax]: https://github.com/dropocol/prismax
 [gitlo]: https://github.com/dropocol/gitlo
 [zotes]: https://github.com/dropocol/zotes
 [ColdJot]: https://github.com/dropocol/coldjot
